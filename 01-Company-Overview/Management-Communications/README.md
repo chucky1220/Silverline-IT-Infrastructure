@@ -28,5 +28,13 @@ This directory documents simulated professional correspondence between Silverlin
 
 ---
 
+### 003 — CEO Response to IT Requirements Questions
+
+**From:** Chief Executive Officer  
+**To:** IT Administrator  
+**Type:** Management requirements clarification
+
+[View CEO Response](003-CEO-Response.pdf)
+
 *All correspondence is part of a fictional IT infrastructure simulation for professional development.*
 
